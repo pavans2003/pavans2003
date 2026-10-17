@@ -13,6 +13,7 @@ I write modular, reproducible code: serialisable pipelines, clean input/output c
 
 | Project | Stack | Key Result |
 |---|---|---|
+| [D2C Order Follow-up Automation](https://github.com/pavans2003/d2c-followup) | FastAPI · SQLite · HTML/CSS/JS | 5-rule exception engine; 116-order sample auto-creates 42 tasks; dashboard, CSV report, audit trail |
 | [Customer Churn Prediction](https://github.com/pavans2003/customer-churn-prediction) | Logistic Regression · SMOTE · GridSearchCV · Platt Scaling | Calibrated binary classifier; Elastic Net + SAGA |
 | [Cirrhosis Outcome Prediction](https://github.com/pavans2003/cirrhosis-outcome-prediction) | XGBoost · Stacking · Scikit-Learn | Multi-class log loss; 5-fold CV |
 | [Retail Demand Forecasting](https://github.com/pavans2003/retail-demand-forecasting) | LightGBM · ARIMA · Croston · STL | MASE 0.82–0.89; adaptive model selection |
